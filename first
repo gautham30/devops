@@ -13,3 +13,7 @@ tags
 git tag v1
 git tag -d v1
 git push --tags origin
+
+git reset "commit id"
+git reset --hard "commit id"
+git revert
