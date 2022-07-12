@@ -9,3 +9,7 @@ git remote add origin
 git push origin master
 git pull origin master
 
+tags
+git tag v1
+git tag -d v1
+git push --tags origin
