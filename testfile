@@ -1,0 +1,16 @@
+git commands
+
+git init
+git add .
+git status
+git commit -m 
+git log
+git show
+
+git remote add origin "link"
+git remote remove origin "link"
+git remote -v
+
+git pushh origin master
+git pull origin master
+
