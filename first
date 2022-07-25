@@ -22,3 +22,5 @@ git reset "commit id"
 git reset --hard "commit id"
 git revert
 
+added new line of code dummy data
+nothing addded here for now
